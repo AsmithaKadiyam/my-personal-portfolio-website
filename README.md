@@ -31,8 +31,8 @@ This website showcases my skills, projects, experience, blog, and resume — all
 
 ## 📸 Preview
 
-![Portfolio Preview](https://your-image-link-if-any.png)  
-(Add screenshot of homepage here or delete this section)
+![Portfolio Preview](https://github.com/AsmithaKadiyam/asmitha-portfolio-website.git)  
+
 
 ---
 
@@ -54,7 +54,7 @@ This website showcases my skills, projects, experience, blog, and resume — all
 🔗 Live Demo
 
 🌐 Click here to view the live site
-()
+(https://github.com/AsmithaKadiyam/asmitha-portfolio-website.git)
 
 
 ---
