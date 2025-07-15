@@ -31,6 +31,7 @@ This website showcases my skills, projects, experience, blog, and resume — all
 
 ## 📸 Preview
 
+https://preview--asmitha-portfolio-website.lovable.app/
 ![Portfolio Preview](https://github.com/AsmithaKadiyam/asmitha-portfolio-website.git)  
 
 
@@ -54,6 +55,7 @@ This website showcases my skills, projects, experience, blog, and resume — all
 🔗 Live Demo
 
 🌐 Click here to view the live site
+https://preview--asmitha-portfolio-website.lovable.app/
 https://github.com/AsmithaKadiyam/asmitha-portfolio-website.git
 
 
