@@ -4,7 +4,7 @@
 
 Welcome to my personal portfolio website!  
 This website showcases my skills, projects, experience, blog, and resume — all in one place. Built with modern web technologies and designed to be responsive, interactive, and visually engaging.
-
+click here: https://asmitha-portfolio-website.lovable.app/
 ---
 
 ## 🚀 Features
@@ -31,7 +31,7 @@ This website showcases my skills, projects, experience, blog, and resume — all
 
 ## 📸 Preview
 
-https://preview--asmitha-portfolio-website.lovable.app/
+(https://asmitha-portfolio-website.lovable.app/)
 ![Portfolio Preview](https://github.com/AsmithaKadiyam/asmitha-portfolio-website.git)  
 
 
@@ -55,7 +55,7 @@ https://preview--asmitha-portfolio-website.lovable.app/
 🔗 Live Demo
 
 🌐 Click here to view the live site
-https://preview--asmitha-portfolio-website.lovable.app/
+https://asmitha-portfolio-website.lovable.app/
 https://github.com/AsmithaKadiyam/asmitha-portfolio-website.git
 
 
