@@ -54,7 +54,7 @@ This website showcases my skills, projects, experience, blog, and resume — all
 🔗 Live Demo
 
 🌐 Click here to view the live site
-(https://github.com/AsmithaKadiyam/asmitha-portfolio-website.git)
+https://github.com/AsmithaKadiyam/asmitha-portfolio-website.git
 
 
 ---
